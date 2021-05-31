@@ -1,26 +1,28 @@
-![语言/Language: WXML&JavaScript (shields.io)](https://img.shields.io/badge/语言%2FLanguage-WXML%26JavaScript-orange)
+![语言/Language: WXML&JavaScript (shields.io)](https://img.shields.io/badge/语言%2FLanguage-WXML%26JavaScript-orange)![版本/Version: 3.2 (shields.io)](https://img.shields.io/badge/版本%2FVersion-3.2-blue)![作者/Author: 丘天惠/Autumnhui (shields.io)](https://img.shields.io/badge/作者%2FAuthor-丘天惠%2FAutumnhui-yellow)
 
-![版本/Version: 3.2 (shields.io)](https://img.shields.io/badge/版本%2FVersion-3.2-blue)
+## 😁 代码开源，欢迎学习交流（大佬不要喷，自学JavaScript） 😁
 
-![作者/Author: 丘天惠/Autumnhui (shields.io)](https://img.shields.io/badge/作者%2FAuthor-丘天惠%2FAutumnhui-yellow)
+## ⚠️ 拒绝一切将他人学习成果白嫖/盈利的行为 ⚠️ （已参加小程序应用大赛）
 
-## 😁 代码开源，欢迎学习交流（大佬不要喷，自学JavaScript） 😁 
-## ⚠️ 拒绝一切将他人学习成果白嫖/盈利的行为 ⚠️
 ## 如果对你有用，可以Star✨一下
 
-# Insight 微信图像识别小程序 
+--- 
+
+# Insight 微信图像识别小程序
 
 
 <center>
-  
-  <img src="/Users/autumnhui/Documents/insight_qrcode.jpg" alt="insight_qrcode"  />
-  
+
+
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gr1pjsql8sj3076076dgu.jpg" alt="insight_qrcode"  />
+
 > 扫码体验
-  
+
 </center>
 
 
 ---
+
 # 一、产品概况
 
 ## 1. 介绍与需求
@@ -65,7 +67,7 @@
 
 #### 1.5.2 实践应用
 
-<img src="/Users/autumnhui/Documents/image-20210504161359080.png" alt="image-20210504161359080" style="zoom:;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gr1pkasy4kj30cq0cn74l.jpg" alt="image-20210504161359080" style="zoom:;" />
 
 在小程序后台统计数据中，可以看到用户从任务栏中进入的次数占比高达75%，说明识相Insight小程序已经融入成为用户的习惯操作中，在需要的时候打开微信下拉的操作简便且快速实现需求。
 
@@ -79,21 +81,21 @@
 
 **识相 Insight 小程序产品功能结构的逻辑清晰易懂，用户上手即可掌握，用户使用过程中的每一步都可以明白对应的下一步操作，快速满足用户需求。**
 
-![识相Insight-产品结构图 (2)](/Users/autumnhui/Documents/识相Insight-产品结构图 (2).jpg)
+![识相Insight-产品结构图 (2)](https://tva1.sinaimg.cn/large/008i3skNgy1gr1pkhgokfj318f0u07ci.jpg)
 
 ### 2.2 用户流程图
 
 **用户使用流程清晰，部分步骤有关联但不会影响每一步的使用，用户旅程、操作逻辑简单而快速。**
 
-![识相小程序 用户流程图 (1)](/Users/autumnhui/Documents/识相小程序 用户流程图 (1).jpg)
+![识相小程序 用户流程图 (1)](https://tva1.sinaimg.cn/large/008i3skNgy1gr1pkkude5j31240u0thf.jpg)
 
 
 
 ### 2.3 UI设计规范
 
-<img src="/Users/autumnhui/Documents/WechatIMG1640.jpeg" alt="WechatIMG1640" style="zoom:25%;" /><img src="/Users/autumnhui/Documents/WechatIMG1644.jpeg" alt="WechatIMG1644" style="zoom:25%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gr1pko1a44j30u01ondiw.jpg" alt="WechatIMG1640" style="zoom:25%;" /><img src="https://tva1.sinaimg.cn/large/008i3skNgy1gr1pksbf66j30u01szdi2.jpg" alt="WechatIMG1644" style="zoom:25%;" />
 
-<img src="/Users/autumnhui/Documents/WechatIMG1645.jpeg" alt="WechatIMG1645" style="zoom:25%;" /><img src="/Users/autumnhui/Documents/WechatIMG1646.jpeg" alt="WechatIMG1646" style="zoom:25%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gr1pky9s01j30u01qp0yq.jpg" alt="WechatIMG1645" style="zoom:25%;" /><img src="https://tva1.sinaimg.cn/large/008i3skNgy1gr1pl3g20fj30u01qp0xj.jpg" alt="WechatIMG1646" style="zoom:25%;" />
 
 
 
